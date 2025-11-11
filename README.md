@@ -1,2 +1,4 @@
 # prova_websys
-Repositório criado para a avaliação da matéria de Sistemas Web.
+Sistema de Leilão de Antiguidades de maneira simples
+
+Os produtos são nacionais e a forma de pagamento é em R$, aquele que pagar o maior lance leva o produto.
