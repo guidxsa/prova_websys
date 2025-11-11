@@ -1,0 +1,23 @@
+[
+  {
+    "valor": 150,
+    "moeda": "BRL",
+    "produto": "Quadro Valioso",
+    "usuario": "João Silva",
+    "timestamp": "2025-11-09T10:00:00"
+  },
+  {
+    "valor": 200,
+    "moeda": "BRL",
+    "produto": "Vaso Histórico",
+    "usuario": "Maria Souza",
+    "timestamp": "2025-11-09T10:05:00"
+  },
+  {
+    "valor": 120,
+    "moeda": "BRL",
+    "produto": "Relíquia Antiga",
+    "usuario": "Pedro Oliveira",
+    "timestamp": "2025-11-09T10:10:00"
+  }
+]
